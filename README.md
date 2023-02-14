@@ -1,2 +1,2 @@
-# prepcourse-henry21
-este es un repositorio del modulo2 de prepcourse henry
+renzo cistari  
+este proyecto es una prueba para crear un repositorio y clonarlo desde github
